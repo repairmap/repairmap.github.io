@@ -7,10 +7,9 @@ function createMap(){
   map = L.map('map').setView([47.1164, -101.2996], 4);
 
   // basemap tiles: positron blue from GeoAPIfy
-  var tiles = L.tileLayer('https://maps.geoapify.com/v1/tile/positron-blue/{z}/{x}/{y}.png?apiKey=938b15273e0a487aa0df78a19b7fa9f9', {
-     attribution: 'Powered by <a href="https://www.geoapify.com/" target="_blank">Geoapify</a> | <a href="https://openmaptiles.org/" target="_blank">© OpenMapTiles</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap</a> contributors',
-     maxZoom: 20,
-     id: 'osm-bright'
+  var tiles = L.tileLayer('http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
+     attribution: '',
+     maxZoom: 10,
    }).addTo(map);
 
 //call getData function
