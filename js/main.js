@@ -4,7 +4,7 @@ var map;
 //function to instantiate the Leaflet map
 function createMap(){
   //create the map
-  map = L.map('map').setView([47.1164, -101.2996], 4);
+  map = L.map('map').setView([45, -101], 4);
 
   // basemap tiles: positron blue from GeoAPIfy
   var tiles = L.tileLayer('http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
