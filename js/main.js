@@ -322,7 +322,27 @@ function getData(map){
             40.68295
           ]
         }
+      },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Hyde Park Mennonite Fellowship",
+        "Website": "https://www.hydeparkmennonitefellowship.com/",
+        "City": "Boise",
+        "ConcComma": ", ",
+        "State": "ID",
+        "Location": "Boise, Idaho",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Boise Valley Shoshone, Northern Paiute and Bannock Tribes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.22749,
+          43.60859
+        ]
       }
+    }
     ]
   };
 
