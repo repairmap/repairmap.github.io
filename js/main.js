@@ -21,308 +21,308 @@ function getData(map){
 
   // repair network data
   var cong = {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Eighth Street Mennonite",
-          "Website": "https://8thstmennonite.org/",
-          "City": "Goshen",
-          "ConcComma": ", ",
-          "State": "IN",
-          "Location": "Goshen, IN",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Potawatomi and Miami People"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -85.836423,
-            41.589086
-          ]
-        }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Eighth Street Mennonite",
+        "Website": "https://8thstmennonite.org/",
+        "City": "Goshen",
+        "ConcComma": ", ",
+        "State": "IN",
+        "Location": "Goshen, IN",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Potawatomi and Miami People"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Peace Mennonite",
-          "Website": "https://peacemennonite.org/",
-          "City": "Lawrence",
-          "ConcComma": ", ",
-          "State": "KS",
-          "Location": "Lawrence, KS",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Kanza Land"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -95.266212,
-            38.958184
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.836423,
+          41.589086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Peace Mennonite",
+        "Website": "https://peacemennonite.org/",
+        "City": "Lawrence",
+        "ConcComma": ", ",
+        "State": "KS",
+        "Location": "Lawrence, KS",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Kanza Land"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "First Mennonite Church",
-          "Website": "https://fmc-cu.org/",
-          "City": "Champaign Urbana",
-          "ConcComma": ", ",
-          "State": "IL",
-          "Location": "Champaign Urbana, IL",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Lands of the Kickapoo, Piankeshaw, Peoria, and Potawatomi Nations"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -88.144083,
-            40.075453
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.266212,
+          38.958184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "First Mennonite Church",
+        "Website": "https://fmc-cu.org/",
+        "City": "Champaign Urbana",
+        "ConcComma": ", ",
+        "State": "IL",
+        "Location": "Champaign Urbana, IL",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Lands of the Kickapoo, Piankeshaw, Peoria, and Potawatomi Nations"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Allegheny Mennonite Conference Association",
-          "Website": "https://www.alleghenymennoniteconference.org/",
-          "City": "Johnstown",
-          "ConcComma": ", ",
-          "State": "PA",
-          "Location": "Johnstown, PA",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Lenapehoking - Lenape Nation"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -78.918387,
-            40.329353
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.144083,
+          40.075453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Allegheny Mennonite Conference Association",
+        "Website": "https://www.alleghenymennoniteconference.org/",
+        "City": "Johnstown",
+        "ConcComma": ", ",
+        "State": "PA",
+        "Location": "Johnstown, PA",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Lenapehoking - Lenape Nation"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Shalom Mennonite Fellowship",
-          "Website": "https://shalommc.org/",
-          "City": "Tucson",
-          "ConcComma": ", ",
-          "State": "AZ",
-          "Location": "Tucson, AZ",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Tohono O'odham land, also lived on for a very long time by the Pascua Yaqui and Apache"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -110.828987,
-            32.19709
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.918387,
+          40.329353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Shalom Mennonite Fellowship",
+        "Website": "https://shalommc.org/",
+        "City": "Tucson",
+        "ConcComma": ", ",
+        "State": "AZ",
+        "Location": "Tucson, AZ",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Tohono O'odham land, also lived on for a very long time by the Pascua Yaqui and Apache"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Mennonite Church of the Servant",
-          "Website": "http://www.mcswichita.net/",
-          "City": "Wichita",
-          "ConcComma": ", ",
-          "State": "KS",
-          "Location": "Wichita, KS",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": " Lands of Wichita/Osage/Kanza"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -97.339044,
-            37.687692
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.828987,
+          32.19709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Mennonite Church of the Servant",
+        "Website": "http://www.mcswichita.net/",
+        "City": "Wichita",
+        "ConcComma": ", ",
+        "State": "KS",
+        "Location": "Wichita, KS",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": " Lands of Wichita/Osage/Kanza"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Seattle Mennonite Church",
-          "Website": "https://seattlemennonite.org/",
-          "City": "Seattle",
-          "ConcComma": ", ",
-          "State": "WA",
-          "Location": "Seattle, WA",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "The Duwamish Tribe"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -122.331537,
-            47.673455
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.339044,
+          37.687692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Seattle Mennonite Church",
+        "Website": "https://seattlemennonite.org/",
+        "City": "Seattle",
+        "ConcComma": ", ",
+        "State": "WA",
+        "Location": "Seattle, WA",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "The Duwamish Tribe"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Pasadena Mennonite Church",
-          "Website": "http://pasadenamennonite.org/",
-          "City": "Pasadena",
-          "ConcComma": ", ",
-          "State": "CA",
-          "Location": "Pasadena, CA",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Unceded land of the Hahamogna tribe of the Tongva people"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -118.148936,
-            34.153289
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331537,
+          47.673455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Pasadena Mennonite Church",
+        "Website": "http://pasadenamennonite.org/",
+        "City": "Pasadena",
+        "ConcComma": ", ",
+        "State": "CA",
+        "Location": "Pasadena, CA",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Unceded land of the Hahamogna tribe of the Tongva people"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Eliza B. Conley House of Resilience: A Mennonite Catholic Worker in Wyandotte County",
-          "Website": "https://peaceworkskc.org/ecology/kc-ks-activists-form-mennonite-catholic-worker-house-of-resilience",
-          "City": "Kansas City",
-          "ConcComma": ", ",
-          "State": "KS",
-          "Location": "Kansas City, KS",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Kanza, NiUKoenSka, Lenni Lenape, Shawano, Wendat"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -94.731462,
-            39.106542
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.148936,
+          34.153289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Eliza B. Conley House of Resilience: A Mennonite Catholic Worker in Wyandotte County",
+        "Website": "https://peaceworkskc.org/ecology/kc-ks-activists-form-mennonite-catholic-worker-house-of-resilience",
+        "City": "Kansas City",
+        "ConcComma": ", ",
+        "State": "KS",
+        "Location": "Kansas City, KS",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Kanza, NiUKoenSka, Lenni Lenape, Shawano, Wendat"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Camp Friedenswald",
-          "Website": "https://friedenswald.org/",
-          "City": "Cassopolis",
-          "ConcComma": ", ",
-          "State": "MI",
-          "Location": "Cassopolis, MI",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Potawatomi People; Pokagon Band Potawatomi Nation"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -86.009905,
-            41.911597
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.731462,
+          39.106542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Camp Friedenswald",
+        "Website": "https://friedenswald.org/",
+        "City": "Cassopolis",
+        "ConcComma": ", ",
+        "State": "MI",
+        "Location": "Cassopolis, MI",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Potawatomi People; Pokagon Band Potawatomi Nation"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Germantown Mennonite Church",
-          "Website": "https://www.germantownmennonite.org/",
-          "City": "Philadelphia",
-          "ConcComma": ", ",
-          "State": "PA",
-          "Location": "Philadelphia, PA",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Lenapehoking - Lenape Nation"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -75.168428,
-            39.990821
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.009905,
+          41.911597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Germantown Mennonite Church",
+        "Website": "https://www.germantownmennonite.org/",
+        "City": "Philadelphia",
+        "ConcComma": ", ",
+        "State": "PA",
+        "Location": "Philadelphia, PA",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Lenapehoking - Lenape Nation"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Faith Mennonite",
-          "Website": "https://faithmennonite.org/",
-          "City": "Minneapolis",
-          "ConcComma": ", ",
-          "State": "MN",
-          "Location": "Minneapolis, MN",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Dakota Peoples"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -93.266563,
-            44.96313
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.168428,
+          39.990821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Faith Mennonite",
+        "Website": "https://faithmennonite.org/",
+        "City": "Minneapolis",
+        "ConcComma": ", ",
+        "State": "MN",
+        "Location": "Minneapolis, MN",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Dakota Peoples"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "First Mennonite Church",
-          "Website": "https://menno.org/",
-          "City": " San Francisco",
-          "ConcComma": ", ",
-          "State": "CA",
-          "Location": " San Francisco, CA",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Ohlone Peoples of the Bay Area: Ramaytush,\nTamien, Chochenyo, Karkin, Muwekma, and Bay Miwok"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -122.431272,
-            37.778008
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.266563,
+          44.96313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "First Mennonite Church",
+        "Website": "https://menno.org/",
+        "City": " San Francisco",
+        "ConcComma": ", ",
+        "State": "CA",
+        "Location": " San Francisco, CA",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Ohlone Peoples of the Bay Area: Ramaytush,\nTamien, Chochenyo, Karkin, Muwekma, and Bay Miwok"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Albuquerque Mennonite Church",
-          "Website": "http://www.abqmennonite.org/",
-          "City": "Albuquerque",
-          "ConcComma": ", ",
-          "State": "NM",
-          "Location": "Albuquerque, NM",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Sandia Pueblo (one of the Tiwa-speaking groups in New Mexico)"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -106.579128,
-            35.128683
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431272,
+          37.778008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Albuquerque Mennonite Church",
+        "Website": "http://www.abqmennonite.org/",
+        "City": "Albuquerque",
+        "ConcComma": ", ",
+        "State": "NM",
+        "Location": "Albuquerque, NM",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Sandia Pueblo (one of the Tiwa-speaking groups in New Mexico)"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "Community": "Manhattan Mennonite Fellowship",
-          "Website": "https://manhattanmennonite.org/",
-          "City": "New York City",
-          "ConcComma": ", ",
-          "State": "NY",
-          "Location": "New York City, NY",
-          "CommitmentStatus": "Joined",
-          "IndigenousLands": "Lenapehoking, the ancestral and unceded territory of the Lenape people. Specifically, we are located on Munsi land, a Manhattan tribe of the Lenape people. "
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -73.9708,
-            40.68295
-          ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.579128,
+          35.128683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Manhattan Mennonite Fellowship",
+        "Website": "https://manhattanmennonite.org/",
+        "City": "New York City",
+        "ConcComma": ", ",
+        "State": "NY",
+        "Location": "New York City, NY",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Lenapehoking, the ancestral and unceded territory of the Lenape people. Specifically, we are located on Munsi land, a Manhattan tribe of the Lenape people. "
       },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9708,
+          40.68295
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -331,7 +331,7 @@ function getData(map){
         "City": "Boise",
         "ConcComma": ", ",
         "State": "ID",
-        "Location": "Boise, Idaho",
+        "Location": "Boise, ID",
         "CommitmentStatus": "Joined",
         "IndigenousLands": "Boise Valley Shoshone, Northern Paiute and Bannock Tribes"
       },
@@ -342,9 +342,49 @@ function getData(map){
           43.60859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Raleigh Mennonite Church",
+        "Website": "https://www.raleighmennonite.org/",
+        "City": "Raleigh",
+        "ConcComma": ", ",
+        "State": "NC",
+        "Location": "Raleigh, NC",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Tuscarora, Sioun, and Catawba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64439,
+          35.795543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Silverwood Mennonite Church",
+        "Website": "https://www.silverwoodmc.org/",
+        "City": "Goshen",
+        "ConcComma": ", ",
+        "State": "IN",
+        "Location": "Goshen, IN",
+        "CommitmentStatus": "Joined",
+        "IndigenousLands": "Potawatomi People (Bodewadmik), Miami People (Myaamia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.836423,
+          41.589086
+        ]
+      }
     }
-    ]
-  };
+  ]
+};
 
   var geojsonMarkerOptions = {
     radius: 8,
