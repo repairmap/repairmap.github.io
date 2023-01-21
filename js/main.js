@@ -26,7 +26,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Eighth Street Mennonite",
+        "Community": "Eighth Street Mennonite",
         "URL": "https://8thstmennonite.org/",
         "Location": "Goshen, IN",
         "Address": "602 S. 8th St.",
@@ -57,7 +57,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Peace Mennonite",
+        "Community": "Peace Mennonite",
         "URL": "https://peacemennonite.org/",
         "Location": "Lawrence, KS",
         "Address": "615 Lincoln",
@@ -88,7 +88,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "First Mennonite Church",
+        "Community": "First Mennonite Church",
         "URL": "https://fmc-cu.org/",
         "Location": "Urbana, IL",
         "Address": "902 West Springfield Avenue",
@@ -119,7 +119,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Allegheny Mennonite Conference - Pennsylvania, West Virginia, Maryland, Delaware, Virginia",
+        "Community": "Allegheny Mennonite Conference - Pennsylvania, West Virginia, Maryland, Delaware, Virginia",
         "URL": "https://www.alleghenymennoniteconference.org/",
         "Location": "Johnstown, PA",
         "Address": "319 Washington St. Suite 234",
@@ -150,7 +150,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Shalom Mennonite Fellowship",
+        "Community": "Shalom Mennonite Fellowship",
         "URL": "https://shalommennonite.org/",
         "Location": "Tucson, AZ",
         "Address": "6044 E 30th Street",
@@ -181,7 +181,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Mennonite Church of the Servant",
+        "Community": "Mennonite Church of the Servant",
         "URL": "http://www.mcswichita.net/",
         "Location": "Wichita, KS",
         "Address": "2401 Woodland",
@@ -212,7 +212,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Seattle Mennonite Church",
+        "Community": "Seattle Mennonite Church",
         "URL": "https://seattlemennonite.org/",
         "Location": "Seattle, WA",
         "Address": "3120 NE 125th St",
@@ -243,7 +243,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Pasadena Mennonite Church",
+        "Community": "Pasadena Mennonite Church",
         "URL": "http://pasadenamennonite.org/",
         "Location": "Pasadena, CA",
         "Address": "1041 North Altadena Drive",
@@ -274,7 +274,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Eliza B. Conley House of Resilience: A Mennonite Catholic Worker in Wyandotte County",
+        "Community": "Eliza B. Conley House of Resilience: A Mennonite Catholic Worker in Wyandotte County",
         "URL": "https://peaceworkskc.org/ecology/kc-ks-activists-form-mennonite-catholic-worker-house-of-resilience",
         "Location": "Kansas City, MO",
         "Address": "4509 Walnut",
@@ -305,7 +305,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Camp Friedenswald",
+        "Community": "Camp Friedenswald",
         "URL": "https://friedenswald.org/",
         "Location": "Cassopolis, MI",
         "Address": "15406 Watercress Way",
@@ -336,7 +336,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Germantown Mennonite Church",
+        "Community": "Germantown Mennonite Church",
         "URL": "https://www.germantownmennonite.org/",
         "Location": "Philadelphia, PA",
         "Address": "21 West Washington Lane",
@@ -367,7 +367,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Faith Mennonite",
+        "Community": "Faith Mennonite",
         "URL": "https://faithmennonite.org/",
         "Location": "Minneapolis, MN",
         "Address": "2720 E 22nd St",
@@ -398,7 +398,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "First Mennonite Church",
+        "Community": "First Mennonite Church",
         "URL": "https://menno.org/",
         "Location": "San Francisco, CA",
         "Address": "290 Dolores St",
@@ -429,7 +429,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Albuquerque Mennonite Church",
+        "Community": "Albuquerque Mennonite Church",
         "URL": "http://www.abqmennonite.org/",
         "Location": "Albuquerque, NM",
         "Address": "1300 Girard Blvd. NE",
@@ -460,7 +460,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Manhattan Mennonite Fellowship",
+        "Community": "Manhattan Mennonite Fellowship",
         "URL": "https://manhattanmennonite.org/",
         "Location": "New York, NY",
         "Address": "15 Rutherford Pl",
@@ -491,7 +491,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Hyde Park Mennonite Church",
+        "Community": "Hyde Park Mennonite Church",
         "URL": "https://www.hydeparkmennonitefellowship.com/",
         "Location": "Boise, Idaho",
         "Address": "1520 North 12th Street",
@@ -522,7 +522,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Raleigh Mennonite Church",
+        "Community": "Raleigh Mennonite Church",
         "URL": "https://www.raleighmennonite.org/",
         "Location": "Raleigh, NC",
         "Address": "121 Hillsborough St.",
@@ -553,7 +553,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Silverwood Mennonite Church",
+        "Community": "Silverwood Mennonite Church",
         "URL": "https://www.silverwoodmc.org/",
         "Location": "Goshen, IN",
         "Address": "1745 W Lincoln Ave",
@@ -584,7 +584,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Assembly Mennonite Church",
+        "Community": "Assembly Mennonite Church",
         "URL": "https://www.assemblymennonite.org/",
         "Location": "Goshen, IN",
         "Address": "727 New York Street",
@@ -615,7 +615,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Boulder Mennonite Church",
+        "Community": "Boulder Mennonite Church",
         "URL": "https://bouldermennonite.org/",
         "Location": "Boulder, CO",
         "Address": "3910 Table Mesa Drive",
@@ -646,7 +646,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Portland Mennonite",
+        "Community": "Portland Mennonite",
         "URL": "https://www.portlandmennonite.org/",
         "Location": "Portland, OR",
         "Address": "1312 SE 35th AVE",
@@ -677,7 +677,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Waterford Mennonite",
+        "Community": "Waterford Mennonite",
         "URL": "https://waterfordchurch.org/",
         "Location": "Goshen, IN",
         "Address": "65975 State Road 15",
@@ -708,7 +708,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Mountain Lake Repair Community",
+        "Community": "Mountain Lake Repair Community",
         "URL": "",
         "Location": "Mountain Lake, MN",
         "Address": "",
@@ -739,7 +739,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Salford Mennonite Church",
+        "Community": "Salford Mennonite Church",
         "URL": "https://www.salfordmc.org/",
         "Location": "Harleysville, PA",
         "Address": "480 Groffs Mill Rd.",
@@ -770,7 +770,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "EMU Land Acknowledgment Team",
+        "Community": "EMU Land Acknowledgment Team",
         "URL": "https://emu.edu/land-acknowledgement/",
         "Location": "Harrisonburg, VA",
         "Address": "1200 Park Road",
@@ -801,38 +801,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Boulder Mennonite Church",
-        "URL": "https://bouldermennonite.org/",
-        "Location": "Boulder, CO",
-        "Address": "3910 Table Mesa Dr",
-        "Commitment": "In process",
-        "JoinDate": "",
-        "Contact(s)": "Cheri Krause, Randy Spaulding",
-        "Email Contact": "cheri.krause@gmail.com, randy@bouldermennonite.org",
-        "IndigenousLandsRecognized": "",
-        "IndigenousLands1": "",
-        "IndigenousLands2": "",
-        "IndigenousLands3": "",
-        "IndigenousLands4": "",
-        "IndigenousLands5": "",
-        "IndigenousLands6": "",
-        "IndigenousLands7": "",
-        "IndigenousLands8": "",
-        "IndigenousLands9": "",
-        "IndigenousLands10": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.248036,
-          39.985528
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Community ": "Willow Avenue Mennonite Church",
+        "Community": "Willow Avenue Mennonite Church",
         "URL": "https://willowmennonite.org/",
         "Location": "Clovis, CA",
         "Address": "2529 Willow Ave",
@@ -863,7 +832,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Taftsville Chapel Mennonite Fellowship",
+        "Community": "Taftsville Chapel Mennonite Fellowship",
         "URL": "https://taftsvillechapel.org/",
         "Location": "Woodstock, TN",
         "Address": "121 Happy Valley Rd",
@@ -894,7 +863,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Community Mennonite Church of Lancaster",
+        "Community": "Community Mennonite Church of Lancaster",
         "URL": "https://communitymennonite.org/",
         "Location": "Lancaster, PA",
         "Address": "328 West Orange Street",
@@ -925,7 +894,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "First Mennonite",
+        "Community": "First Mennonite",
         "URL": "https://www.mennolink.org/cong/first/",
         "Location": "Mountain Lake, MN",
         "Address": "305 7th St N",
@@ -956,7 +925,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Emmanuel Mennonite Church",
+        "Community": "Emmanuel Mennonite Church",
         "URL": "https://gainesvillemennonites.org/",
         "Location": "Gainesville, FL",
         "Address": "1236 NW 18th Ave",
@@ -987,7 +956,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Rochester Mennonite Fellowship",
+        "Community": "Rochester Mennonite Fellowship",
         "URL": "https://rochestermennonite.org/",
         "Location": "Rochester, MN",
         "Address": "111 Hillside Avenue",
@@ -1018,7 +987,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Community House Church, DC",
+        "Community": "Community House Church, DC",
         "URL": "https://communityhousechurch.org/",
         "Location": "Washington DC",
         "Address": "",
@@ -1049,7 +1018,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Columbus Mennonite Church",
+        "Community": "Columbus Mennonite Church",
         "URL": "https://www.columbusmennonite.org/",
         "Location": "Columbus, OH",
         "Address": "35 Oakland Park Avenue",
@@ -1080,7 +1049,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Fellowship of Hope Mennonite Church",
+        "Community": "Fellowship of Hope Mennonite Church",
         "URL": "http://fellowshipofhope.org/",
         "Location": "Elkhart, IN",
         "Address": "1618 South Sixth Street",
@@ -1111,7 +1080,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Benton Mennonite Church",
+        "Community": "Benton Mennonite Church",
         "URL": "https://bentonchurch.org/",
         "Location": "Goshen, IN",
         "Address": "15350 County Road 44",
@@ -1142,7 +1111,7 @@ function getData(map){
     {
       "type": "Feature",
       "properties": {
-        "Community ": "Bethel College Mennonite Church",
+        "Community": "Bethel College Mennonite Church",
         "URL": "https://bethelcollegemennonitechurch.org/",
         "Location": "North Newton, KS",
         "Address": "2600 College Ave",
